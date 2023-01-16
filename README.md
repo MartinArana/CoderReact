@@ -8,5 +8,6 @@
 <li class="has-line-data" data-line-start="11" data-line-end="12">react: “^18.2.0”</li>
 <li class="has-line-data" data-line-start="12" data-line-end="13">react-bootstrap: “^2.6.0”</li>
 <li class="has-line-data" data-line-start="13" data-line-end="15">react-dom: “^18.2.0”</li>
+<li class="has-line-data" data-line-start="13" data-line-end="15">"react-router-dom": "^6.6.2"</li>
 </ul>
 <p class="has-line-data" data-line-start="15" data-line-end="16">/README.md&gt;</p>
