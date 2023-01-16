@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    text-decoration: none;
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+}
+
+img {
+    margin-left: 55px;
+    /* border: 1px solid black; */
+}
+
+h4 {
+    text-align: center;
+    padding: 5px;
+}
+
+div {
+    text-align: center;
+}
